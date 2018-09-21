@@ -1,0 +1,6 @@
+D:\Kuliah\Matkul Informatika\Semseter 3\Pemograman Lanjut\1\calculatormulti\CalculatorConsoleAppp\bin\Debug\CalculatorConsoleAppp.exe.config
+D:\Kuliah\Matkul Informatika\Semseter 3\Pemograman Lanjut\1\calculatormulti\CalculatorConsoleAppp\bin\Debug\CalculatorConsoleAppp.exe
+D:\Kuliah\Matkul Informatika\Semseter 3\Pemograman Lanjut\1\calculatormulti\CalculatorConsoleAppp\bin\Debug\CalculatorConsoleAppp.pdb
+D:\Kuliah\Matkul Informatika\Semseter 3\Pemograman Lanjut\1\calculatormulti\CalculatorConsoleAppp\obj\Debug\CalculatorConsoleAppp.csprojResolveAssemblyReference.cache
+D:\Kuliah\Matkul Informatika\Semseter 3\Pemograman Lanjut\1\calculatormulti\CalculatorConsoleAppp\obj\Debug\CalculatorConsoleAppp.exe
+D:\Kuliah\Matkul Informatika\Semseter 3\Pemograman Lanjut\1\calculatormulti\CalculatorConsoleAppp\obj\Debug\CalculatorConsoleAppp.pdb
